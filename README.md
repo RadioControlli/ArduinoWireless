@@ -12,18 +12,18 @@ The actuator units used are powered by a normal 12Volt power supply and can driv
 
 It is a two-way wireless system (868MHz) that allows the following operations:
 
-# Send actuation command to the single actuator.
-# At each actuation command the device sends the feedback of the executed operation :
+1) Send actuation command to the single actuator.
+2) At each actuation command the device sends the feedback of the executed operation :
     It is possible at any time to know :
     1) Input State with Button5,
     2) Output State with Button6,
     3) Battery level of the single actuator with the button 7,
     4) Temperature of the single actuator with the button 8,
 
-# It is possible to send implementation commands to several Actuators (having the same addressing) simultaneously for the implementation of single relays.
-# Possibility of configuring the actuator or actuators available, under "Configure Actuator".
-# Ability to search for new actuators, under "Search Actuator".
+3) It is possible to send implementation commands to several Actuators (having the same addressing) simultaneously for the implementation of single relays.
+4) Possibility of configuring the actuator or actuators available, under "Configure Actuator".
+5) Ability to search for new actuators, under "Search Actuator".
 
 # For more information contact us :
 
-# mail: sales@radiocontrolli.com
+mail: sales@radiocontrolli.com
